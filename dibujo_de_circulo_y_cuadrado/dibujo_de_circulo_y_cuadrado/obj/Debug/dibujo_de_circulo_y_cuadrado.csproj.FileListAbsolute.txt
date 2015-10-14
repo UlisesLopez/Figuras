@@ -1,0 +1,10 @@
+C:\Users\Sergio\AppData\Local\Temporary Projects\dibujo_de_circulo_y_cuadrado\bin\Debug\dibujo_de_circulo_y_cuadrado.exe.config
+C:\Users\Sergio\Desktop\tarea 1\Ejemplo de figuras\dibujo_de_circulo_y_cuadrado\dibujo_de_circulo_y_cuadrado\bin\Debug\dibujo_de_circulo_y_cuadrado.exe.config
+C:\Users\Sergio\Desktop\tarea 1\Ejemplo de figuras\dibujo_de_circulo_y_cuadrado\dibujo_de_circulo_y_cuadrado\bin\Debug\dibujo_de_circulo_y_cuadrado.exe
+C:\Users\Sergio\Desktop\tarea 1\Ejemplo de figuras\dibujo_de_circulo_y_cuadrado\dibujo_de_circulo_y_cuadrado\bin\Debug\dibujo_de_circulo_y_cuadrado.pdb
+C:\Users\Sergio\Desktop\tarea 1\Ejemplo de figuras\dibujo_de_circulo_y_cuadrado\dibujo_de_circulo_y_cuadrado\obj\Debug\dibujo_de_circulo_y_cuadrado.csprojResolveAssemblyReference.cache
+C:\Users\Sergio\Desktop\tarea 1\Ejemplo de figuras\dibujo_de_circulo_y_cuadrado\dibujo_de_circulo_y_cuadrado\obj\Debug\dibujo_de_circulo_y_cuadrado.Form1.resources
+C:\Users\Sergio\Desktop\tarea 1\Ejemplo de figuras\dibujo_de_circulo_y_cuadrado\dibujo_de_circulo_y_cuadrado\obj\Debug\dibujo_de_circulo_y_cuadrado.Properties.Resources.resources
+C:\Users\Sergio\Desktop\tarea 1\Ejemplo de figuras\dibujo_de_circulo_y_cuadrado\dibujo_de_circulo_y_cuadrado\obj\Debug\dibujo_de_circulo_y_cuadrado.csproj.GenerateResource.Cache
+C:\Users\Sergio\Desktop\tarea 1\Ejemplo de figuras\dibujo_de_circulo_y_cuadrado\dibujo_de_circulo_y_cuadrado\obj\Debug\dibujo_de_circulo_y_cuadrado.exe
+C:\Users\Sergio\Desktop\tarea 1\Ejemplo de figuras\dibujo_de_circulo_y_cuadrado\dibujo_de_circulo_y_cuadrado\obj\Debug\dibujo_de_circulo_y_cuadrado.pdb

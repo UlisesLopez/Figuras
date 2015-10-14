@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dibujo_de_circulo_y_cuadrado", "dibujo_de_circulo_y_cuadrado\dibujo_de_circulo_y_cuadrado.csproj", "{44FC7F44-55D3-4649-A407-7774F68DA2AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44FC7F44-55D3-4649-A407-7774F68DA2AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44FC7F44-55D3-4649-A407-7774F68DA2AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44FC7F44-55D3-4649-A407-7774F68DA2AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44FC7F44-55D3-4649-A407-7774F68DA2AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
